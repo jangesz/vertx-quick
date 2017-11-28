@@ -1,0 +1,13 @@
+mvn archetype:generate -DgroupId=nutsjian -DartifactId=vertx-quick-web -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false -DarchetypeCatalog=local -Dversion=0.0.1 -X
+
+mvn archetype:generate -DgroupId=nutsjian -DartifactId=vertx-quick-demo-module1 -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false -DarchetypeCatalog=local -Dversion=0.0.1 -X
+
+mvn archetype:generate -DgroupId=nutsjian -DartifactId=vertx-quick-demo-module2 -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false -DarchetypeCatalog=local -Dversion=0.0.1 -X
+
+mvn archetype:generate -DgroupId=nutsjian -DartifactId=vertx-quick-demo -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false -DarchetypeCatalog=local -Dversion=0.0.1 -X
+
+mvn archetype:generate -DgroupId=nutsjian -DartifactId=vertx-quick-demo-product -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false -DarchetypeCatalog=local -Dversion=0.0.1 -X
+
+mvn archetype:generate -DgroupId=nutsjian -DartifactId=vertx-quick-demo-order -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false -DarchetypeCatalog=local -Dversion=0.0.1 -X
+
+mvn archetype:generate -DgroupId=nutsjian -DartifactId=vertx-quick-demo-payment -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false -DarchetypeCatalog=local -Dversion=0.0.1 -X
